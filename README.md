@@ -1,4 +1,5 @@
-# supermall
+# vue_learn_malla
+
 
 ## Project setup
 ```
